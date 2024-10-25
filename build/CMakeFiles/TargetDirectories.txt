@@ -1,0 +1,3 @@
+/mnt/d/REST/cpprestsdk/cpprest_example/build/CMakeFiles/cpprest_example.dir
+/mnt/d/REST/cpprestsdk/cpprest_example/build/CMakeFiles/edit_cache.dir
+/mnt/d/REST/cpprestsdk/cpprest_example/build/CMakeFiles/rebuild_cache.dir
