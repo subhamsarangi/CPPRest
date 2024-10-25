@@ -67,7 +67,6 @@ Retrieve all items from the API.
 ```bash
 curl http://localhost:8080/api/items  
 ```
-- Not implemented yet.
 Create a new item in the API.
 ```bash
 curl -X POST http://localhost:8080/api/items -H "Content-Type: application/json" -d "{\"name\": \"New Item\"}"
