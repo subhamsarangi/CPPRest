@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/cpprest_example.dir/main.cpp.o -o cpprest_example  -lcpprest /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
